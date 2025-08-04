@@ -1,1 +1,2 @@
-# CALCULADORA.mod
+# CALCULADORA modularizada
+Por: Nicolas de Antoni Mendes.
